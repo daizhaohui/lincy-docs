@@ -1,0 +1,17 @@
+.DS_Store
+._*
+node_modules/
+typings/
+*.tsbuildinfo
+.npm
+.eslintcache
+*.tgz
+dist/
+.vuepress/dist
+.serverless/
+.temp
+tmp/
+temp/
+.idea/
+.vscode/
+.history
