@@ -1,0 +1,15 @@
+{
+  "name": "lincy-vue",
+  "short_name": "lincy-vue",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#3eaf7c",
+  "description": "lincy-vue framework documentation",
+  "icons": [
+    {
+      "src": "images/icons/icon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "lincy-docs",
+  "version": "1.0.0",
+  "description": "lincy前端资产文档库",
+  "author": "daizhaohui",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "oneport": "^1.0.2"
+  },
+  "bin": {
+    "lincy-vue-guide": "bin/lincy-docs.js"
+  }
+}
